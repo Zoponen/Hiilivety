@@ -47,5 +47,14 @@ int main(void){
         printf("Luku ei ollut viisi numeroinen");
     }
 
-
+    int summa = 0;
+    int maara = 0;
+    int tluku = 0;
+    while(luku >=0){
+        printf("Luku")
+        scanf("%d",&tluku)
+        maara++;
+        summa += tluku
+    }
+    int keskiarvo = summa/maara
 }
